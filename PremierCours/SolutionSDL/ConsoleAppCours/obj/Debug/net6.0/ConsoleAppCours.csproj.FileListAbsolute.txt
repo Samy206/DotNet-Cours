@@ -1,0 +1,15 @@
+C:\Users\Samyb\OneDrive\Bureau\M2\.Net\DotNet-Cours\SolutionSDL\ConsoleAppCours\obj\Debug\net6.0\ConsoleAppCours.csproj.AssemblyReference.cache
+C:\Users\Samyb\OneDrive\Bureau\M2\.Net\DotNet-Cours\SolutionSDL\ConsoleAppCours\obj\Debug\net6.0\ConsoleAppCours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samyb\OneDrive\Bureau\M2\.Net\DotNet-Cours\SolutionSDL\ConsoleAppCours\obj\Debug\net6.0\ConsoleAppCours.AssemblyInfoInputs.cache
+C:\Users\Samyb\OneDrive\Bureau\M2\.Net\DotNet-Cours\SolutionSDL\ConsoleAppCours\obj\Debug\net6.0\ConsoleAppCours.AssemblyInfo.cs
+C:\Users\Samyb\OneDrive\Bureau\M2\.Net\DotNet-Cours\SolutionSDL\ConsoleAppCours\obj\Debug\net6.0\ConsoleAppCours.csproj.CoreCompileInputs.cache
+C:\Users\Samyb\OneDrive\Bureau\M2\.Net\DotNet-Cours\SolutionSDL\ConsoleAppCours\bin\Debug\net6.0\ConsoleAppCours.exe
+C:\Users\Samyb\OneDrive\Bureau\M2\.Net\DotNet-Cours\SolutionSDL\ConsoleAppCours\bin\Debug\net6.0\ConsoleAppCours.deps.json
+C:\Users\Samyb\OneDrive\Bureau\M2\.Net\DotNet-Cours\SolutionSDL\ConsoleAppCours\bin\Debug\net6.0\ConsoleAppCours.runtimeconfig.json
+C:\Users\Samyb\OneDrive\Bureau\M2\.Net\DotNet-Cours\SolutionSDL\ConsoleAppCours\bin\Debug\net6.0\ConsoleAppCours.dll
+C:\Users\Samyb\OneDrive\Bureau\M2\.Net\DotNet-Cours\SolutionSDL\ConsoleAppCours\bin\Debug\net6.0\ConsoleAppCours.pdb
+C:\Users\Samyb\OneDrive\Bureau\M2\.Net\DotNet-Cours\SolutionSDL\ConsoleAppCours\obj\Debug\net6.0\ConsoleAppCours.dll
+C:\Users\Samyb\OneDrive\Bureau\M2\.Net\DotNet-Cours\SolutionSDL\ConsoleAppCours\obj\Debug\net6.0\refint\ConsoleAppCours.dll
+C:\Users\Samyb\OneDrive\Bureau\M2\.Net\DotNet-Cours\SolutionSDL\ConsoleAppCours\obj\Debug\net6.0\ConsoleAppCours.pdb
+C:\Users\Samyb\OneDrive\Bureau\M2\.Net\DotNet-Cours\SolutionSDL\ConsoleAppCours\obj\Debug\net6.0\ConsoleAppCours.genruntimeconfig.cache
+C:\Users\Samyb\OneDrive\Bureau\M2\.Net\DotNet-Cours\SolutionSDL\ConsoleAppCours\obj\Debug\net6.0\ref\ConsoleAppCours.dll
